@@ -1,1 +1,1 @@
-Sample repository for devops files
+sample repo for my devops files 
